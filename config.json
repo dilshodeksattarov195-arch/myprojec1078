@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerverify",
+        "uuid": 5335022,
+        "checksum": "rd94l"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
